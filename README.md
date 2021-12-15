@@ -1,11 +1,15 @@
-# php-simcart
+# Welcome to PHP - Sim cart!
+**First step get Vendor**
 
-first step get Vendor
-
-composer install
-
-add Phpunit
-
-composer require --dev phpunit/phpunit ^9.5
+> **Command:** composer install
+>
 
 
+**Install Phpunit**
+
+> **Command:** composer require --dev phpunit/phpunit ^9.5
+
+**RUN :**
+
+> **Command:** php -S localhost:8000
+>
