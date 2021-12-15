@@ -1,7 +1,7 @@
 # php-simcart
 
 first step get Vendor
---command 
+
 composer install
 
 add Phpunit
